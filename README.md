@@ -202,7 +202,7 @@ Lo que lo hace mucho más práctico y cercano a escenarios reales.
 
 👨‍💻 Autor
 
-Daniel Esteban Monterroza Pérez
+** - Daniel Esteban Monterroza Pérez** ** - Jose Jose Arcia Jaramillo** ** - Alexis Armando Mendoza Martinez**
 
 Proyecto académico desarrollado para la asignatura de Estructuras de Datos
 
